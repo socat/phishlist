@@ -2,7 +2,7 @@
 ! Title: socat phishlist
 ! Description: List composed of custom phishing analysis.
 ! Homepage: https://github.com/socat/phishlist/
-! Last modified: 2023-12-25T00:27:00.000Z
+! Last modified: 2024-02-29T16:20:00.000Z
 !
 ||123tradeoption.com^
 ||aave-v3.com^
